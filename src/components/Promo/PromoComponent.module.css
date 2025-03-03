@@ -1,0 +1,21 @@
+.promoContainer {
+  background-color: var(--bg-color);
+  padding: 20px;
+  margin: 0;
+}
+
+.promoLabel {
+  color: var(--text-color);
+  font-size: 0.75rem;
+  margin: 0 0 50px;
+}
+
+.promoHeading {
+  color: var(--text-color);
+  margin: 0 0 2rem;
+  font-weight: bold;
+}
+
+
+
+

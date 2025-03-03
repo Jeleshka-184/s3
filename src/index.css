@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{  
+  --bg-color:#FEFBF1;
+  --text-color:#703412;
+  --accent-color:#084935;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+

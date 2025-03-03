@@ -1,0 +1,47 @@
+.galleryContainer{
+  background-color: var(--bg-color);
+  color: var(--text-color);
+} 
+
+.imageCard{
+  background-color: inherit;
+}
+
+.imageContainer {
+  width: 100%;
+  padding-top: 100%; 
+  position: relative;
+  overflow: hidden;
+}
+
+.squareImage {
+  position: absolute;
+  top: 0;
+  left: 0;   
+  width:100%; 
+  height:100%;
+  border-radius: 8px;
+  object-fit: cover; 
+}
+
+.imageTitle{ 
+  color: var(--text-color);
+  font-weight: bold;
+}
+
+.blogTitle{
+  color: var(--text-color);  
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+.galleryRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+}
+
+.galleryTitle {  
+    font-size: 1.5rem;
+    margin: 0 20px 3rem;
+  }

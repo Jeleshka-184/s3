@@ -1,0 +1,12 @@
+.footer {
+    background-color: var(--accent-color);
+    color: #fff;
+    padding: 5px 20px 5px 20px;
+    font-size: 0.75em;
+}
+
+
+.copyrightFooter{
+    text-align: start;
+    margin-left: 20px;
+}
